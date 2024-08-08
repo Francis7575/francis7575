@@ -47,10 +47,13 @@
     Hi there! 👋 I'm Francis Albert Sanchez, a Full Stack Web Developer student. I'm currently focused on building engaging web applications with React and Next.js. 🚀
   </span>
 </p>
-<h2>💼 My Expertise</h2>
+<h2>💼 About Me</h2>
 <p>
-  <span>
-    I have the ability to translate designs into code using HTML and CSS or Tailwind within React, ensuring they are fully responsive and look great on any device.
+  <ul>
+    <li>I’m currently interested in learning Vue.js and Python.</li>
+    <li>Take a look at https://francis7575.github.io/my-portfolio/</li>
+    <li>I regularly practice frontend design challenges on https://www.frontendmentor.io/profile/Francis7575/</li>
+    <li>I'm currently in my last month of full stack dev studies.</li>
   </span>
 </p>
 <h2>👨‍💻 Technologies & Tools</h2>
