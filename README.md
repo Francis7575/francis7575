@@ -47,4 +47,11 @@
       Hi there! 👋 I'm Francis Albert Sanchez, a Full Stack Web Developer student, currently focused in frontend development React and Nextjs.🚀
   </span>
 </p>
-
+<h2>💼 About Me</h2>
+<br>
+<p>
+  <span>
+    I have the ability to translate designs into code using HTML and CSS or Tailwind within React, ensuring they are fully responsive and look great on any device.
+    I am passionate about working with teams that value collaboration and collective effort to reach shared objectives. I expect to work with like-minded individuals who enjoy teamwork.
+  </span>
+</p>
