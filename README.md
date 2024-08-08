@@ -48,7 +48,7 @@
 </p>
 <hr>
 <p>
-  <span class="small-text">
+  <span style="font-size:14px;">
       Hi there! 👋 I'm Francis Albert Sanchez, a Full Stack Web Developer student, currently focused in frontend development.🚀
   </span>
 </p>
