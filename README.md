@@ -43,6 +43,8 @@
 <hr>
 <p>
   <span>
-    Hi there! 👋 I'm Francis Albert Sanchez, a Full Stack Web Developer student, currently focused in frontend development.🚀
+    <small>
+      Hi there! 👋 I'm Francis Albert Sanchez, a Full Stack Web Developer student, currently focused in frontend development.
+    </small>🚀
   </span>
 </p>
