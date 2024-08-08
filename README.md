@@ -50,9 +50,11 @@
 <h2>💼 About Me</h2>
 <p>
   <ul>
+    <li>I'm based in Vancouver, Canadaz</li>
     <li>I’m currently interested in learning Vue.js and Python.</li>
-    <li>Take a look at https://francis7575.github.io/my-portfolio/</li>
+    <li>See my portfolio at https://francis7575.github.io/my-portfolio/</li>
     <li>I regularly practice frontend design challenges on https://www.frontendmentor.io/profile/Francis7575/</li>
     <li>I'm currently in my last month of full stack dev studies.</li>
+    <li>You can contact me at francis.albert.2009@gmail.com</li>
   </ul>
 </p>
