@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="GIF" width="350" height="280"/>
 </p>
-<p align="center" style="border-bottom: 1px solid hsl(240, 3%, 89%);">
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
   </a>&nbsp;&nbsp;
@@ -40,6 +40,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 </p>
+<hr>
 <p>
   <span style="font-size:14px;">
       Hi there! 👋 I'm Francis Albert Sanchez, a Full Stack Web Developer student, currently focused in frontend development React and Nextjs.🚀
