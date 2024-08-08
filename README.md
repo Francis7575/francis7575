@@ -54,3 +54,4 @@
     I am passionate about working with teams that value collaboration and collective effort to reach shared objectives. I expect to work with like-minded individuals who enjoy teamwork.
   </span>
 </p>
+<h2>👨‍💻 Technologies & Tools</h2>
