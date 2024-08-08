@@ -56,4 +56,3 @@
     <li>I'm currently in my last month of full stack dev studies.</li>
   </ul>
 </p>
-<h2>👨‍💻 Technologies & Tools</h2>
