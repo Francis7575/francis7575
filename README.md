@@ -40,3 +40,9 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 </p>
+<hr>
+<p>
+  <span>
+    Hi there! 👋 I'm Francis Albert Sanchez, a Full Stack Web Developer student, currently focused in frontend development.🚀
+  </span>
+</p>
