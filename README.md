@@ -1,9 +1,3 @@
-<style>
-  .small-text {
-    font-size: 14px;
-  }
-</style>
-
 <h1 align="center">¡Welcome to My Coding Space!</h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="GIF" width="350" height="280"/>
