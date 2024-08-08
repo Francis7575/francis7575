@@ -54,6 +54,6 @@
     <li>Take a look at https://francis7575.github.io/my-portfolio/</li>
     <li>I regularly practice frontend design challenges on https://www.frontendmentor.io/profile/Francis7575/</li>
     <li>I'm currently in my last month of full stack dev studies.</li>
-  </span>
+  </ul>
 </p>
 <h2>👨‍💻 Technologies & Tools</h2>
