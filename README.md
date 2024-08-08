@@ -50,7 +50,7 @@
 <h2>💼 About Me</h2>
 <p>
   <ul>
-    <li>I'm based in Vancouver, Canadaz</li>
+    <li>I'm based in Vancouver, Canada</li>
     <li>I’m currently interested in learning Vue.js and Python.</li>
     <li>See my portfolio at https://francis7575.github.io/my-portfolio/</li>
     <li>I regularly practice frontend design challenges on https://www.frontendmentor.io/profile/Francis7575/</li>
