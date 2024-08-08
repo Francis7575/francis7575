@@ -48,7 +48,6 @@
   </span>
 </p>
 <h2>💼 About Me</h2>
-<br>
 <p>
   <span>
     I have the ability to translate designs into code using HTML and CSS or Tailwind within React, ensuring they are fully responsive and look great on any device.
