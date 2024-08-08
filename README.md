@@ -41,7 +41,7 @@
   </a>
 </p>
 <hr>
-<br><br>
+<br>
 <p>
   <span>
       Hi there! 👋 I'm Francis Albert Sanchez, a Full Stack Web Developer student, currently focused in frontend development React and Nextjs.🚀
