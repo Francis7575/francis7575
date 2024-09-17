@@ -54,7 +54,7 @@
 <p>
   <ul>
     <li>I'm based in Vancouver, Canada</li>
-    <li>I’m currently interested in learning Vue.js and Python.</li>
+    <li>You can find me in https://www.linkedin.com/in/francis-sanchez-03b05b293/</li>
     <li>See my portfolio at https://franciss.dev/</li>
     <li>I regularly practice frontend design challenges on https://www.frontendmentor.io/profile/Francis7575/</li>
     <li>Recently completed my full stack development studies.</li>
