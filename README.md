@@ -62,5 +62,5 @@
   </ul>
 </p>
 <h2># My GitHub Stats</h2>
-<hr</hr>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francis7575&show_icons=true&theme=dark&count_private=true)
