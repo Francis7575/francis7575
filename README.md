@@ -61,6 +61,6 @@
     <li>You can contact me at francis.albert.2009@gmail.com</li>
   </ul>
 </p>
-# My GitHub Stats
-
+<h2># My GitHub Stats</h2>
+<hr</hr>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francis7575&show_icons=true&theme=dark&count_private=true)
