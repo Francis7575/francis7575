@@ -3,13 +3,36 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="GIF" width="350" height="280"/>
 </p>
 <p align="center">
+  <p>Frontend</p>
   <img src="./icons/JavaScript.svg" alt="JavaScript" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="./icons/TypeScript.svg" alt="TypeScript" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="./icons/React-Dark.svg" alt="React" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="./icons/JavaScript.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="./icons/NextJS-Dark.svg" alt="NextJS" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./icons/VueJS-Dark.svg" alt="VueJS" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./icons/TailwindCSS-Dark.svg" alt="TailwindCSS" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./icons/Redux.svg" alt="Redux" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./icons/MaterialUI-Dark.svg" alt="MaterialUI" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+ 
+  <p>Backend</p>
+   <img src="./icons/NodeJS-Dark.svg" alt="NodeJS" width="40" height="40"/>
+    &nbsp;&nbsp;&nbsp;
+    <img src="./icons/ExpressJS-Dark.svg" alt="ExpressJS" width="40" height="40"/>
+    &nbsp;&nbsp;&nbsp;
+    <img src="./icons/MongoDB.svg" alt="MongoDB" width="40" height="40"/>
+    &nbsp;&nbsp;&nbsp;
+    <img src="./icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="40" height="40"/>
+    &nbsp;&nbsp;&nbsp;
+    <p>Other tools</p>
+    <img src="./icons/Postman.svg" alt="Postman" width="40" height="40"/>
+    &nbsp;&nbsp;&nbsp;
 </p>
 <hr>
 <br>
