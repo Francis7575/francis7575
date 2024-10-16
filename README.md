@@ -43,6 +43,7 @@
 </p>
 <p align="left">
   <img src="./icons/Postman.svg" alt="Postman" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="./icons/Firebase-Dark.svg" alt="Postman" width="40" height="40"/>
 </p>
 <hr>
