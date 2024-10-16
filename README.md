@@ -6,41 +6,47 @@
   <strong>Frontend</strong>
 </p>
 <p align="left">
-  <img src="./icons/JavaScript.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="./icons/JavaScript.svg" alt="JavaScript" width="48" height="48"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="./icons/TypeScript.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="./icons/TypeScript.svg" alt="TypeScript" width="48" height="48"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="./icons/React-Dark.svg" alt="React" width="40" height="40"/>
+  <img src="./icons/React-Dark.svg" alt="React" width="48" height="48"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="./icons/NextJS-Dark.svg" alt="NextJS" width="40" height="40"/>
+  <img src="./icons/NextJS-Dark.svg" alt="NextJS" width="48" height="48"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="./icons/VueJS-Dark.svg" alt="VueJS" width="40" height="40"/>
+  <img src="./icons/VueJS-Dark.svg" alt="VueJS" width="48" height="48"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="./icons/TailwindCSS-Dark.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="./icons/TailwindCSS-Dark.svg" alt="TailwindCSS" width="48" height="48"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="./icons/Redux.svg" alt="Redux" width="40" height="40"/>
+  <img src="./icons/MaterialUI-Dark.svg" alt="MaterialUI" width="48" height="48"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="./icons/MaterialUI-Dark.svg" alt="MaterialUI" width="40" height="40"/>
+  <img src="./icons/Bootstrap.svg" alt="MaterialUI" width="48" height="48"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./icons/Redux.svg" alt="Redux" width="48" height="48"/>
 </p>
 
 <p align="left">
   <strong>Backend</strong>
 </p>
 <p align="left">
-  <img src="./icons/NodeJS-Dark.svg" alt="NodeJS" width="40" height="40"/>
+  <img src="./icons/NodeJS-Dark.svg" alt="NodeJS" width="48" height="48"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="./icons/ExpressJS-Dark.svg" alt="ExpressJS" width="40" height="40"/>
+  <img src="./icons/ExpressJS-Dark.svg" alt="ExpressJS" width="48" height="48"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="./icons/MongoDB.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="./icons/MongoDB.svg" alt="MongoDB" width="48" height="48"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="./icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="./icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="48" height="48"/>
 </p>
 
 <p align="left">
   <strong>Other Tools</strong>
 </p>
 <p align="left">
-  <img src="./icons/Postman.svg" alt="Postman" width="40" height="40"/>
+  <img src="./icons/Postman.svg" alt="Postman" width="48" height="48"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./icons/Firebase-Dark.svg" alt="Postman" width="48" height="48"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./icons/Figma-Dark.svg" alt="Postman" width="48" height="48"/>
 </p>
 <hr>
 <br>
