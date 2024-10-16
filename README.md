@@ -3,6 +3,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="GIF" width="350" height="280"/>
 </p>
 <p align="center">
+  <p>Frontend</p>
+    <img src="./icons/JavaScript.svg" alt="javascript" width="40" height="40"/>
+    <img src="./icons/TypeScript.svg" alt="javascript" width="40" height="40"/>
+    <img src="./icons/React-Dark.svg" alt="javascript" width="40" height="40"/>
     <img src="./icons/JavaScript.svg" alt="javascript" width="40" height="40"/>
 </p>
 <hr>
