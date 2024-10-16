@@ -44,9 +44,9 @@
 <p align="left">
   <img src="./icons/Postman.svg" alt="Postman" width="48" height="48"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="./icons/Firebase-Dark.svg" alt="Postman" width="48" height="48"/>
+   <img src="./icons/Figma-Dark.svg" alt="Postman" width="48" height="48"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="./icons/Figma-Dark.svg" alt="Postman" width="48" height="48"/>
+  <img src="./icons/Firebase-Dark.svg" alt="Postman" width="48" height="48"/>
 </p>
 <hr>
 <br>
