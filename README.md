@@ -42,7 +42,7 @@
   <a href="https://postman.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
-    <img src="/icons/javascript.svg" alt="javascript" width="40" height="40"/>
+    <img src="./icons/JavaScript.svg" alt="javascript" width="40" height="40"/>
 </p>
 <hr>
 <br>
