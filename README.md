@@ -2,10 +2,10 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="GIF" width="350" height="280"/>
 </p>
-<p align="center">
+<p align="left">
   <strong>Frontend</strong>
 </p>
-<p align="center">
+<p align="left">
   <img src="./icons/JavaScript.svg" alt="JavaScript" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="./icons/TypeScript.svg" alt="TypeScript" width="40" height="40"/>
@@ -23,10 +23,10 @@
   <img src="./icons/MaterialUI-Dark.svg" alt="MaterialUI" width="40" height="40"/>
 </p>
 
-<p align="center">
+<p align="left">
   <strong>Backend</strong>
 </p>
-<p align="center">
+<p align="left">
   <img src="./icons/NodeJS-Dark.svg" alt="NodeJS" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="./icons/ExpressJS-Dark.svg" alt="ExpressJS" width="40" height="40"/>
@@ -36,10 +36,10 @@
   <img src="./icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="40" height="40"/>
 </p>
 
-<p align="center">
+<p align="left">
   <strong>Other Tools</strong>
 </p>
-<p align="center">
+<p align="left">
   <img src="./icons/Postman.svg" alt="Postman" width="40" height="40"/>
 </p>
 <hr>
