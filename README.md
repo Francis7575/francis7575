@@ -18,9 +18,11 @@
   &nbsp;&nbsp;&nbsp;
   <img src="./icons/TailwindCSS-Dark.svg" alt="TailwindCSS" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="./icons/Redux.svg" alt="Redux" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
   <img src="./icons/MaterialUI-Dark.svg" alt="MaterialUI" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./icons/Bootstrap.svg" alt="MaterialUI" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./icons/Redux.svg" alt="Redux" width="40" height="40"/>
 </p>
 
 <p align="left">
@@ -41,6 +43,7 @@
 </p>
 <p align="left">
   <img src="./icons/Postman.svg" alt="Postman" width="40" height="40"/>
+  <img src="./icons/Firebase-Dark.svg" alt="Postman" width="40" height="40"/>
 </p>
 <hr>
 <br>
