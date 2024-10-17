@@ -44,9 +44,11 @@
 <p align="left">
   <img src="./icons/Postman.svg" alt="Postman" width="48" height="48"/>
   &nbsp;&nbsp;&nbsp;
-   <img src="./icons/Figma-Dark.svg" alt="Postman" width="48" height="48"/>
+   <img src="./icons/Figma-Dark.svg" alt="Figma" width="48" height="48"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="./icons/Firebase-Dark.svg" alt="Postman" width="48" height="48"/>
+  <img src="./icons/Firebase-Dark.svg" alt="Firebase" width="48" height="48"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./icons/Docker.svg" alt="Docker" width="48" height="48"/>
 </p>
 <hr>
 <br>
