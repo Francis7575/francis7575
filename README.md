@@ -54,7 +54,7 @@
 <br>
 <p>
   <span>
-    Hi there! 👋 I'm Francis Albert Sanchez, a Full Stack Web Developer student. I'm currently focused on building engaging web applications with different javatscript libraries such as React, Vue and Next.js 🚀
+    Hi there! 👋 I'm Francis Albert Sanchez, a Full Stack Web Developer, I'm currently focused on building engaging web applications with different javatscript libraries such as React, Vue and Next.js 🚀
   </span>
 </p>
 <h2>💼 About Me</h2>
