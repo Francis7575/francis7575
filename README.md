@@ -68,9 +68,10 @@
     <li>You can contact me at francis.albert.2009@gmail.com</li>
   </ul>
 </p>
-<h2># My GitHub Stats</h2>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francis7575&show_icons=true&theme=dark&count_private=true)
+<h2>⌨️ Leetcode Info:</h2>
 <p>
 <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Francis20208?theme=dark&font=Nunito&ext=heatmap" />
 </p>
+
+<h2># My GitHub Stats</h2>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francis7575&show_icons=true&theme=dark&count_private=true)
