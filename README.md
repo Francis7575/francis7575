@@ -71,3 +71,4 @@
 <h2># My GitHub Stats</h2>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francis7575&show_icons=true&theme=dark&count_private=true)
+<img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Francis20208?theme=dark&font=Nunito&ext=heatmap" />
