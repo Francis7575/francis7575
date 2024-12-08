@@ -57,6 +57,8 @@
   <img src="./icons/Firebase-Dark.svg" alt="Firebase" width="48" height="48"/>
   &nbsp;&nbsp;&nbsp;
   <img src="./icons/Docker.svg" alt="Docker" width="48" height="48"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./icons/Jest.svg" alt="Jest" width="48" height="48"/>
 </p>
 <hr>
 <br>
