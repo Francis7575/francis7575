@@ -16,6 +16,8 @@
   &nbsp;&nbsp;&nbsp;
   <img src="./icons/VueJS-Dark.svg" alt="VueJS" width="48" height="48"/>
   &nbsp;&nbsp;&nbsp;
+  <img src="./icons/Angular-Dark.svg" alt="Angular" width="48" height="48"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="./icons/TailwindCSS-Dark.svg" alt="TailwindCSS" width="48" height="48"/>
   &nbsp;&nbsp;&nbsp;
   <img src="./icons/MaterialUI-Dark.svg" alt="MaterialUI" width="48" height="48"/>
@@ -31,11 +33,17 @@
 <p align="left">
   <img src="./icons/NodeJS-Dark.svg" alt="NodeJS" width="48" height="48"/>
   &nbsp;&nbsp;&nbsp;
+  <img src="./icons/Spring-Dark.svg" alt="Spring Boot" width="48" height="48"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="./icons/ExpressJS-Dark.svg" alt="ExpressJS" width="48" height="48"/>
   &nbsp;&nbsp;&nbsp;
   <img src="./icons/MongoDB.svg" alt="MongoDB" width="48" height="48"/>
   &nbsp;&nbsp;&nbsp;
   <img src="./icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="48" height="48"/>
+   &nbsp;&nbsp;&nbsp;
+  <img src="./icons/Java-Dark.svg" alt="Java" width="48" height="48"/>
+   &nbsp;&nbsp;&nbsp;
+  <img src="./icons/Python-Dark.svg" alt="Python" width="48" height="48"/>
 </p>
 
 <p align="left">
