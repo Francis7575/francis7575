@@ -14,8 +14,6 @@
   &nbsp;&nbsp;&nbsp;
   <img src="./icons/NextJS-Dark.svg" alt="NextJS" width="48" height="48"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="./icons/VueJS-Dark.svg" alt="VueJS" width="48" height="48"/>
-  &nbsp;&nbsp;&nbsp;
   <img src="./icons/Angular-Dark.svg" alt="Angular" width="48" height="48"/>
   &nbsp;&nbsp;&nbsp;
   <img src="./icons/TailwindCSS-Dark.svg" alt="TailwindCSS" width="48" height="48"/>
